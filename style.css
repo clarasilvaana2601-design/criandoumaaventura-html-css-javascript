@@ -3,4 +3,7 @@ body {
   color: white;
   font-family:"Bai jamjuree", sans-serif;
   display: flex;
-  
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  margin: 0;
